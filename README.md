@@ -1,3 +1,13 @@
+## Code With Hitesh 
+Hello Friend and student my name is Professor Hitesh Prajapati and Today I am Happy to Share My Leaning Website.
+<br>
+<br>
+It's devloping in Laravel Framework by PHP server side language. It's very powerful Framework for MVC Patten.
+<br>
+# M - Model
+# V - View
+# C - Controller
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
