@@ -1,0 +1,40 @@
+.bg-color {
+    color: #28f4f5;
+}
+.nav-pills .nav-link.active{
+    background-color: #28f4f5 !important;
+}
+.top-nav {
+    position: fixed;
+    background-color: #424445;
+    padding: 0;
+    letter-spacing: 1px;
+    font-family: 'Source Sans Pro Topnav', sans-serif;
+    width: 100%;
+    white-space: nowrap;
+    overflow: auto;
+    scrollbar-width: none;
+    z-index: 2;
+}
+
+.nav {
+    flex-wrap: nowrap !important;
+}
+
+.nav-link {
+    color: white;
+}
+
+.nav-link:hover {
+    background-color: #424445;
+    color: white;
+}
+
+#navBtn {
+    display: none;
+}
+
+#content {
+    margin-top: 80px;
+    padding: 20px;      
+}
